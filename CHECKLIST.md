@@ -4,8 +4,9 @@
 - [ ] RoadKill
 - [x] superwhiskers
 - [ ] thunder
+- [x] TJ
 - [x] ru ni
-- [ ] TJ
+
 
 # People who I still need to ask/haven't replied
 - Queenstar
